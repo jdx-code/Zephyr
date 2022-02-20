@@ -1,6 +1,6 @@
 ## Zephyr Solutions website
 
-Specializing in  customised web apps
+Specializing in  customised web apps & software solutions
 
 ## Contributors
 
