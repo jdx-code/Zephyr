@@ -1,4 +1,5 @@
 ## Zephyr Solutions website
 
 ## Contributors
-Jyotirmoy Das, Devkant Swargiary
+#Jyotirmoy Das [https://github.com/jdpro19]
+#Devkant Swargiary [https://github.com/devkant21]
